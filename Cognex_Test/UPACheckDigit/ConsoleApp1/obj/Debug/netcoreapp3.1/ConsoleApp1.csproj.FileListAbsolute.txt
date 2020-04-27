@@ -1,0 +1,11 @@
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Escritorio\VS PROJECTS\Cognex_Test\UPACheckDigit\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
